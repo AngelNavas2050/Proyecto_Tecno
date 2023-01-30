@@ -1,0 +1,16 @@
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.xml
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.vbprojResolveAssemblyReference.cache
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Form1.resources
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Form2.resources
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Resources.resources
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.vbproj.GenerateResource.Cache
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.xml
+c:\users\navas\onedrive\documentos\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\PC14LAB14\Downloads\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\PC14LAB14\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\PC14LAB14\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.xml
+C:\Users\PC14LAB14\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
